@@ -2,7 +2,7 @@
     --background-color: #ffffff;
     --primary-color: #d2b58c;
     --text-color: #333;
-    --step-color: #4CAF50;
+    --step-color: #34db7f;
 }
 
 * {
@@ -352,7 +352,7 @@ nav {
 }
 
 .dot.active {
-    background-color: #34db7f;
+    background-color: var(--primary-color);
 }
 
 
