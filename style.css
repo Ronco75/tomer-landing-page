@@ -241,7 +241,7 @@ nav {
   }
 
 /* Testimonials Section */
-
+/* 
 .testimonials-carousel {
     width: 40%;
     position: relative;
@@ -300,10 +300,10 @@ nav {
     border-radius: 20px;
     font-size: 0.9rem;
     font-weight: 700;
-}
+} */
 
 /* Carousel Navigation */
-.carousel-nav {
+/* .carousel-nav {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -353,7 +353,7 @@ nav {
 
 .dot.active {
     background-color: var(--primary-color);
-}
+} */
 
 
 /* Contact Form */
@@ -531,7 +531,7 @@ footer {
     .step {
         flex-basis: 100%;
     }
-
+/* 
     .testimonials-carousel {
         width: 100%;
     }
@@ -542,7 +542,7 @@ footer {
 
     .testimonial-image {
         height: 400px;
-    }
+    } */
 
     h2 {
         font-size: 1.75rem;
